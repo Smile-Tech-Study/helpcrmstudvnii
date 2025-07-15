@@ -12,4 +12,4 @@ description: Ссылка действует сутки с момента пол
 2. найдите письмо
 3. откройте его и перейдите по ссылке в нём
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

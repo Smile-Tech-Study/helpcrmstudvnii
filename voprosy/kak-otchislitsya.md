@@ -33,4 +33,4 @@
 
 При подаче заявления на отчисление высветится следующее предупреждение:
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
