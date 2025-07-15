@@ -64,4 +64,4 @@
 [/tab]
 {% endtabs %}
 
-{% embed url="https://rutube.ru/video/3e8e4feb80dc84311e271cadff974f90/" %}
+[video:https://rutube.ru/video/3e8e4feb80dc84311e271cadff974f90/" %}
