@@ -2,7 +2,8 @@
 
 {% hint style="info" %}
 **Гражданин подписывает данный договор в личном кабинете портала Работа России**
-{% endhint %}
+
+:::
 
 ## До старта обучения больше 15 рабочих дней <a href="#ponimayu-chto-dostatochno-slozhnyj-process-no-s-etogo-goda-imenno-takoj-i-izmenit-ego-ne-smozhem-nad" id="ponimayu-chto-dostatochno-slozhnyj-process-no-s-etogo-goda-imenno-takoj-i-izmenit-ego-ne-smozhem-nad"></a>
 
@@ -13,7 +14,8 @@
 
 {% hint style="info" %}
 Работодатель должен быть зарегистрирован на портале Работа России и включить функцию по приёму заявлений.
-{% endhint %}
+
+:::
 
 ## Порядок генерации и подписания  <a href="#ponimayu-chto-dostatochno-slozhnyj-process-no-s-etogo-goda-imenno-takoj-i-izmenit-ego-ne-smozhem-nad" id="ponimayu-chto-dostatochno-slozhnyj-process-no-s-etogo-goda-imenno-takoj-i-izmenit-ego-ne-smozhem-nad"></a>
 
