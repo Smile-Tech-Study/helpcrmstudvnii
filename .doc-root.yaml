@@ -1,3 +1,28 @@
-title: Flow_CRM_help_stud_VNII
+title: Flow_CRM_справка по системе для слушателей ВНИИ Труда
 optionalCategoryIndex: true
 supportedLanguages: []
+properties: []
+link:
+  name: Flow_CRM_help_stud_VNII
+  pathname: github.com/Smile-Tech-Study/Flow_CRM_help_stud_VNII/main/-
+  logo: null
+  title: Flow_CRM_help_stud_VNII
+  query: {}
+  group: null
+  code: ""
+  style: null
+  description: null
+  order: 999999
+  isCloning: false
+  cloneCancelDisabled: false
+  redirectOnClone: null
+relatedLinks: []
+name: Flow_CRM_help_stud_VNII
+repositoryName: Flow_CRM_help_stud_VNII
+sourceName: github.com
+userInfo:
+  mail: kitlove51@list.ru
+  name: LyubovAsseyeva
+  id: kitlove51@list.ru
+logo: flow-com-logo (1).svg
+logo_dark: flow-com-logo (1).svg
