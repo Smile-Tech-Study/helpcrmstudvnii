@@ -2,4 +2,4 @@
 title: Успеваемость/Посещаемость - важная метрика обучающихся
 ---
 
-[Успеваемость/Посещаемость - важная метрика обучающихся](https://gramax.smile-tech.study/OdinStudents_help/profil/uspevaemost-poseshaemost)
+Успеваемость/Посещаемость - важная метрика обучающихся. Подробнее узнайте[ в справке по Odin](https://www.odin.study/studentshelp/profil/uspevaemost-poseshaemost)
